@@ -1,0 +1,13 @@
+# Temporary files
+*~*
+
+# WS configs
+.idea/
+
+# VS CODE configs
+.vscode/
+
+
+# node packages
+/node_modules/
+

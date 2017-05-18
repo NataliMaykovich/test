@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test proj protractor",
+  "main": "conf.js",
+  "author": "Nata",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-reporters": "^2.2.1",
+    "jasmine-spec-reporter": "^3.2.0",
+    "protractor": "^5.1.1"
+  }
+}
