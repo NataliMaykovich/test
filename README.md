@@ -18,3 +18,5 @@
 
 :: in other windows run tests
     node node_modules\protractor\built\cli.js conf.js --suite=all
+
+    
