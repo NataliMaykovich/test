@@ -45,7 +45,7 @@ describe('NG2 Finance', function () {
 
     });
 
-    fit('Select sevreral new items to the list', function () {
+    it('Select sevreral new items to the list', function () {
 
         let symbols = [{
                 symbDescr: 'FB - Facebook, Inc.',
